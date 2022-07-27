@@ -1,6 +1,6 @@
 # LeetCode challange
 
-__Condition:__ At least one NeetCode top 150 problem solved every day.
+__Condition:__ At least five NeetCode top 150 problem solved every day.
 
 __NeetCode top 150 problems list:__ [neetcode.io](https://neetcode.io/)
 
@@ -9,7 +9,7 @@ __NeetCode top 150 problems list:__ [neetcode.io](https://neetcode.io/)
 | #   | Status            | Theme                                       | Count   |
 | --- | ----------------- | ------------------------------------------- | ------- |
 | 1   | __Done__          | [Arrays & Hashing](./arrays-hashing)        | [9/9]   |
-| 2   | _Incomplete_      | Two Pointers                                | [0/5]   |
+| 2   | _In progress_     | [Two Pointers](./two-pointers)              | [3/5]   |
 | 3   | _Incomplete_      | Sliding Window                              | [0/6]   |
 | 4   | _Incomplete_      | Stack                                       | [0/7]   |
 | 5   | _Incomplete_      | Binary Search                               | [0/7]   |
