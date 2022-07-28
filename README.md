@@ -9,10 +9,10 @@ __NeetCode top 150 problems list:__ [neetcode.io](https://neetcode.io/)
 | #   | Status            | Theme                                       | Count   |
 | --- | ----------------- | ------------------------------------------- | ------- |
 | 1   | __Done__          | [Arrays & Hashing](./arrays-hashing)        | [9/9]   |
-| 2   | _In progress_     | [Two Pointers](./two-pointers)              | [3/5]   |
-| 3   | _Incomplete_      | Sliding Window                              | [0/6]   |
-| 4   | _Incomplete_      | Stack                                       | [0/7]   |
-| 5   | _Incomplete_      | Binary Search                               | [0/7]   |
+| 2   | __Done__          | [Two Pointers](./two-pointers)              | [5/5]   |
+| 3   | _Paused_          | [Sliding Window](./sliding-window)          | [4/6]   |
+| 4   | _In progress_     | [Stack](./stack)                            | [1/7]   |
+| 5   | _In progress_     | [Binary Search](./binary-search)            | [2/7]   |
 | 6   | _Incomplete_      | Linked List                                 | [0/11]  |
 | 7   | _Incomplete_      | Trees                                       | [0/15]  |
 | 8   | _Incomplete_      | Tries                                       | [0/3]   |
